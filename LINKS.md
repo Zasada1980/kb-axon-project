@@ -1,4 +1,4 @@
 # Ссылки на внешние ресурсы
 
-- **Project Wiki/Confluence:** [ВСТАВЬТЕ ССЫЛКУ]
-- **Jira/YouTrack Board:** [ВСТАВЬТЕ ССЫЛКУ]
+- **Project Wiki/Confluence:** TBD
+- **Jira/YouTrack Board:** TBD
