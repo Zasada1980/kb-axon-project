@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "id": "adr-001",
+      "title": "Выбор архитектуры многомодульного агента",
+      "type": "ADR",
+      "path": "kb/adr-001-architecture.md",
+      "tags": [
+        "архитектура",
+        "agent",
+        "modular"
+      ],
+      "version": "1.0",
+      "linked_modules": [
+        "analyze-5w1h",
+        "solve-triz"
+      ]
+    },
+    {
+      "id": "decision-001",
+      "title": "Отклонение использования внешнего API для логов",
+      "type": "Decision",
+      "path": "kb/decision-001-reject-external-logs.md",
+      "tags": [
+        "решения",
+        "логи",
+        "инфраструктура"
+      ],
+      "version": "1.1",
+      "linked_modules": [
+        "monitor-kpi"
+      ]
+    },
+    {
+      "id": "ref-001",
+      "title": "Документация по TRIZ",
+      "type": "Reference",
+      "path": "kb/ref-001-triz-methodology.md",
+      "tags": [
+        "триз",
+        "методология"
+      ],
+      "linked_modules": [
+        "solve-triz"
+      ]
+    }
+  ]
+}
